@@ -1,0 +1,18 @@
+
+
+pre.mdinput { background-color: white; font-family: monospace;
+    margin-top:0em; margin-bottom:0em;
+    display:none;
+}
+
+div.mdresult {
+    margin-top:0em; margin-bottom:0em;
+    /\* background-color: #fbf6df; \*/
+    /\* display:inline; \*/
+}
+div.mdresultdone {
+    background-color: #FFD55E;
+    margin-top:0em; margin-bottom:0em;
+    /\* display:inline; \*/
+}
+

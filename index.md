@@ -1,3 +1,8 @@
+---
+layout: default
+title:  mdpad - Live Markdown Pad
+---
+
 # *mdpad*
 
 ## Live, interactive Markdown pages with embedded JavaScript and YAML
@@ -15,8 +20,9 @@ authoring of interactive web pages:
 - No tangled callbacks
 - Easy form creation
 - Helpers to load more scripts
-- Helpers to load CSV, JSON, and XML data
+- Helpers to load csv, json, and xml data
 - Plotting built in
+
 
 Markdown is an easy way to make web pages, and with a bit of glue,
 JavaScript code blocks become "live". Data and form elements entered
@@ -61,6 +67,8 @@ In the example above, a text entry box is specified with `freq` =
 text box (a string). The default value is "3.0". Any form elements
 will be translated into JavaScript variables.
 
+## Examples
+
 Here are several examples:
 
 * `example.md`
@@ -83,6 +91,7 @@ Here are several examples:
 Here are several real-world examples in my area of work:
 
 * [http://distributionhandbook.com/calculators/](http://distributionhandbook.com/calculators/)
+
 
 Here's an interface to a simulation compiled using
 [Emscripten](http://emscripten.org/).
@@ -131,6 +140,7 @@ Here's a simple example:
       li bullet 3
     ```
 
+
 ## Installing / Using
 
 Really, you just need to copy the files, or fork this github project.
@@ -142,7 +152,8 @@ Here, I'm running a server on my local computer on port 2000. The main
 html file is `mdpad.html`. This loads the *mdpad* page `example.md`.
 The base html file is used to load the appropriate libraries. You may
 want to change this to include custom headers or footers for your
-site.
+site, and you may want to change the JavaScript libraries loaded by
+default.
 
 For editing *mdpad* files, [Atom](https://atom.io/) and
 [SublimeText](http://www.sublimetext.com/) work well. Both of these have
@@ -199,8 +210,10 @@ right now.
 
 ## Current status
 
-Everything's pretty much beta stage right now. The main code is about
-200 lines of code. Many of the libraries used (Flot, yaml-js, showdown,
+Everything's pretty much alpha stage right now. The main code is less
+than 200 lines of code. Many of the libraries used (Flot, yaml-js, showdown,
 etc.) are pretty mature.
+
+[mdpad Github main page](https://github.com/tshort/mdpad/tree/gh-pages)
 
 MIT licensed.
