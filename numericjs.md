@@ -54,4 +54,4 @@ plot([sol.y])
 
 See [here](numericjs.md) for the Markdown code for this page.
 
-[mdpad main page](https://github.com/tshort/mdpad/tree/gh-pages)
+[mdpad main page](https://github.com/rick-77-2024/mdpad/tree/gh-pages)
