@@ -7,7 +7,7 @@
   modelName                           = "Modelica.Electrical.Analog.Examples.ChuaCircuit"
   modelIdentifier                     = "Modelica_Electrical_Analog_Examples_ChuaCircuit"
   
-  OPENMODELICAHOME                    = "/home/tshort/openmodelica/build"
+  OPENMODELICAHOME                    = "/home/rick-77-2024/openmodelica/build"
   
   guid                                = "{8c4e810f-3df3-4a00-8276-176fa3c9f9e0}"
   
@@ -65,7 +65,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "0" classType = "rSta"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="true" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -76,7 +76,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "1" classType = "rSta"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="true" start="4.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -87,7 +87,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "2" classType = "rSta"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="true" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -98,7 +98,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "0" classType = "rDer"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -109,7 +109,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "1" classType = "rDer"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -120,7 +120,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "2" classType = "rDer"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -131,7 +131,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "0" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "13" startColumn = "5" endLine = "18" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "13" startColumn = "5" endLine = "18" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -142,7 +142,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "1" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -153,7 +153,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "2" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -164,7 +164,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "3" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -175,7 +175,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "4" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "311" startColumn = "5" endLine = "312" endColumn = "50" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "311" startColumn = "5" endLine = "312" endColumn = "50" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="W" displayUnit="W" />
   </ScalarVariable>
   <ScalarVariable
@@ -186,7 +186,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "5" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -197,7 +197,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "6" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -208,7 +208,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "7" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "311" startColumn = "5" endLine = "312" endColumn = "50" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "311" startColumn = "5" endLine = "312" endColumn = "50" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="W" displayUnit="W" />
   </ScalarVariable>
   <ScalarVariable
@@ -219,7 +219,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "8" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -230,7 +230,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "9" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -241,7 +241,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "10" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "223" startColumn = "3" endLine = "224" endColumn = "68" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "223" startColumn = "3" endLine = "224" endColumn = "68" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="S" displayUnit="S" />
   </ScalarVariable>
   <ScalarVariable
@@ -252,7 +252,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "11" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "70" startColumn = "3" endLine = "71" endColumn = "63" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "70" startColumn = "3" endLine = "71" endColumn = "63" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="Ohm" displayUnit="Ohm" />
   </ScalarVariable>
   <ScalarVariable
@@ -263,7 +263,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "12" classType = "rAlg"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "7" startColumn = "5" endLine = "12" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "7" startColumn = "5" endLine = "12" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -274,7 +274,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "0" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "335" startColumn = "5" endLine = "335" endColumn = "52" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "335" startColumn = "5" endLine = "335" endColumn = "52" fileWritable = "true">
   <Real useStart="true" start="18.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="H" displayUnit="H" />
   </ScalarVariable>
   <ScalarVariable
@@ -285,7 +285,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "1" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "62" startColumn = "3" endLine = "63" endColumn = "40" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "62" startColumn = "3" endLine = "63" endColumn = "40" fileWritable = "true">
   <Real useStart="true" start="0.0125" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="Ohm" displayUnit="Ohm" />
   </ScalarVariable>
   <ScalarVariable
@@ -296,7 +296,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "2" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "64" startColumn = "3" endLine = "64" endColumn = "78" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "64" startColumn = "3" endLine = "64" endColumn = "78" fileWritable = "true">
   <Real useStart="true" start="300.15" fixed="true" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -307,7 +307,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "3" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "65" startColumn = "3" endLine = "66" endColumn = "93" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "65" startColumn = "3" endLine = "66" endColumn = "93" fileWritable = "true">
   <Real useStart="true" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="1/K" displayUnit="1/K" />
   </ScalarVariable>
   <ScalarVariable
@@ -318,7 +318,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "4" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "306" startColumn = "5" endLine = "307" endColumn = "99" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "306" startColumn = "5" endLine = "307" endColumn = "99" fileWritable = "true">
   <Real useStart="true" start="288.15" fixed="true" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -329,7 +329,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "5" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "215" startColumn = "3" endLine = "216" endColumn = "41" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "215" startColumn = "3" endLine = "216" endColumn = "41" fileWritable = "true">
   <Real useStart="true" start="0.565" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="S" displayUnit="S" />
   </ScalarVariable>
   <ScalarVariable
@@ -340,7 +340,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "6" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "217" startColumn = "3" endLine = "217" endColumn = "78" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "217" startColumn = "3" endLine = "217" endColumn = "78" fileWritable = "true">
   <Real useStart="true" start="300.15" fixed="true" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -351,7 +351,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "7" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "218" startColumn = "3" endLine = "219" endColumn = "98" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "218" startColumn = "3" endLine = "219" endColumn = "98" fileWritable = "true">
   <Real useStart="true" start="0.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="1/K" displayUnit="1/K" />
   </ScalarVariable>
   <ScalarVariable
@@ -362,7 +362,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "8" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "306" startColumn = "5" endLine = "307" endColumn = "99" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "306" startColumn = "5" endLine = "307" endColumn = "99" fileWritable = "true">
   <Real useStart="true" start="288.15" fixed="true" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -373,7 +373,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "9" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "283" startColumn = "5" endLine = "283" endColumn = "54" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "283" startColumn = "5" endLine = "283" endColumn = "54" fileWritable = "true">
   <Real useStart="true" start="10.0" fixed="true" useNominal="false" nominal="1.0" min="0.0" max="1.7976931348623157E+308" unit="F" displayUnit="F" />
   </ScalarVariable>
   <ScalarVariable
@@ -384,7 +384,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "10" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "283" startColumn = "5" endLine = "283" endColumn = "54" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Basic.mo" startLine = "283" startColumn = "5" endLine = "283" endColumn = "54" fileWritable = "true">
   <Real useStart="true" start="100.0" fixed="true" useNominal="false" nominal="1.0" min="0.0" max="1.7976931348623157E+308" unit="F" displayUnit="F" />
   </ScalarVariable>
   <ScalarVariable
@@ -395,7 +395,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "11" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "5" startColumn = "3" endLine = "5" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "5" startColumn = "3" endLine = "5" endColumn = "67" fileWritable = "true">
   <Real useStart="true" start="-0.757576" fixed="true" useNominal="false" nominal="1.0" min="-1.0" max="1.7976931348623157E+308" unit="S" displayUnit="S" />
   </ScalarVariable>
   <ScalarVariable
@@ -406,7 +406,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "12" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "6" startColumn = "3" endLine = "6" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "6" startColumn = "3" endLine = "6" endColumn = "67" fileWritable = "true">
   <Real useStart="true" start="-0.409091" fixed="true" useNominal="false" nominal="1.0" min="-1.0" max="1.7976931348623157E+308" unit="S" displayUnit="S" />
   </ScalarVariable>
   <ScalarVariable
@@ -417,7 +417,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "13" classType = "rPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "7" startColumn = "3" endLine = "7" endColumn = "54" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Examples/Utilities/NonlinearResistor.mo" startLine = "7" startColumn = "3" endLine = "7" endColumn = "54" fileWritable = "true">
   <Real useStart="true" start="1.0" fixed="true" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -428,7 +428,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Gnd.p.v"
   classIndex = "0" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -439,7 +439,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Gnd.p.v"
   classIndex = "1" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -450,7 +450,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Gnd.p.v"
   classIndex = "2" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -461,7 +461,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Gnd.p.v"
   classIndex = "3" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -472,7 +472,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C1.v"
   classIndex = "4" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -483,7 +483,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C1.v"
   classIndex = "5" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -494,7 +494,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C2.v"
   classIndex = "6" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -505,7 +505,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C2.v"
   classIndex = "7" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -516,7 +516,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Ro.v"
   classIndex = "8" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -527,7 +527,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="L.i"
   classIndex = "9" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -538,7 +538,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="L.i"
   classIndex = "10" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -549,7 +549,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="L.i"
   classIndex = "11" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -560,7 +560,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="L.i"
   classIndex = "12" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "174" startColumn = "5" endLine = "174" endColumn = "55" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -571,7 +571,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="L.i"
   classIndex = "13" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -582,7 +582,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Nr.i"
   classIndex = "14" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -593,7 +593,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="Nr.i"
   classIndex = "15" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -604,7 +604,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C2.i"
   classIndex = "16" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -615,7 +615,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="C2.i"
   classIndex = "17" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -626,7 +626,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C1.i"
   classIndex = "18" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -637,7 +637,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="C1.i"
   classIndex = "19" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -648,7 +648,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="G.T"
   classIndex = "20" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "313" startColumn = "5" endLine = "313" endColumn = "70" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "313" startColumn = "5" endLine = "313" endColumn = "70" fileWritable = "true">
   <Real useStart="true" start="288.15" fixed="false" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -659,7 +659,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="G.i"
   classIndex = "21" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "53" startColumn = "5" endLine = "58" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -670,7 +670,7 @@
   causality = "internal"
   alias = "negatedAlias" aliasVariable="G.i"
   classIndex = "22" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "93" startColumn = "5" endLine = "98" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="A" displayUnit="A" />
   </ScalarVariable>
   <ScalarVariable
@@ -681,7 +681,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Ro.T"
   classIndex = "23" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "313" startColumn = "5" endLine = "313" endColumn = "70" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "313" startColumn = "5" endLine = "313" endColumn = "70" fileWritable = "true">
   <Real useStart="true" start="288.15" fixed="false" useNominal="true" nominal="300.0" min="0.0" max="1.7976931348623157E+308" unit="K" displayUnit="degC" />
   </ScalarVariable>
   <ScalarVariable
@@ -692,7 +692,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="Ro.v"
   classIndex = "24" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "87" startColumn = "5" endLine = "92" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -703,7 +703,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C1.v"
   classIndex = "25" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -714,7 +714,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C1.v"
   classIndex = "26" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "173" startColumn = "5" endLine = "173" endColumn = "67" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
   <ScalarVariable
@@ -725,7 +725,7 @@
   causality = "internal"
   alias = "alias" aliasVariable="C2.v"
   classIndex = "27" classType = "rAli"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "47" startColumn = "5" endLine = "52" endColumn = "61" fileWritable = "true">
   <Real useStart="false" start="0.0" fixed="false" useNominal="false" nominal="1.0" min="-1.7976931348623157E+308" max="1.7976931348623157E+308" unit="V" displayUnit="V" />
   </ScalarVariable>
 
@@ -738,7 +738,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "0" classType = "bPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "304" startColumn = "5" endLine = "305" endColumn = "71" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "304" startColumn = "5" endLine = "305" endColumn = "71" fileWritable = "true">
   <Boolean useStart="true" start="false" fixed="true"   />
   </ScalarVariable>
   <ScalarVariable
@@ -749,7 +749,7 @@
   causality = "internal"
   alias = "noAlias"
   classIndex = "1" classType = "bPar"
-  fileName = "/home/tshort/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "304" startColumn = "5" endLine = "305" endColumn = "71" fileWritable = "true">
+  fileName = "/home/rick-77-2024/openmodelica/build/lib/omlibrary/Modelica 3.2.1/Electrical/Analog/Interfaces.mo" startLine = "304" startColumn = "5" endLine = "305" endColumn = "71" fileWritable = "true">
   <Boolean useStart="true" start="false" fixed="true"   />
   </ScalarVariable>
 
