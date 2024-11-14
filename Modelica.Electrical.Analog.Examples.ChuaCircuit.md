@@ -241,11 +241,11 @@ page loading takes so long. Once loaded, the simulation runs pretty
 quickly.
 
 For more information on compiling OpenModelica to JavaScript, see
-[here](https://github.com/tshort/openmodelica-javascript).
+[here](https://github.com/rick-77-2024/openmodelica-javascript).
 
 The user interface was created in
-[mdpad](http://tshort.github.io/mdpad/). See
-[chua.md](http://tshort.github.io/mdpad/chua.md) for the Markdown code
+[mdpad](http://rick-77-2024.github.io/mdpad/). See
+[chua.md](http://rick-77-2024.github.io/mdpad/chua.md) for the Markdown code
 for this page.
 
 This should work in both Firefox and Chrome. It doesn't work in
