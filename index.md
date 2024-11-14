@@ -55,7 +55,7 @@ Markdown:
 
 When run, it will look like this in a browser:
 
-![mdpad screen capture](https://tshort.github.com/mdpad/mdpad_screenshot.png)
+![mdpad screen capture](https://rick-77-2024.github.com/mdpad/mdpad_screenshot.png)
 
 In the JavaScript block header, you can specify the result type as
 `markdown` for Markdown output (also useful for HTML, since Markdown
@@ -72,19 +72,19 @@ will be translated into JavaScript variables.
 Here are several examples:
 
 * `example.md`
-  ([Live results](https://tshort.github.com/mdpad/mdpad.html?example.md))
-  ([Markdown](https://tshort.github.com/mdpad/example.md))
+  ([Live results](https://rick-77-2024.github.com/mdpad/mdpad.html?example.md))
+  ([Markdown](https://rick-77-2024.github.com/mdpad/example.md))
   -- Covers forms, data input, and plotting.
 
 * `yaml_usage.md`
-  ([Live results](https://tshort.github.com/mdpad/mdpad.html?yaml_usage.md))
-  ([Markdown](https://tshort.github.com/mdpad/yaml_usage.md))
+  ([Live results](https://rick-77-2024.github.com/mdpad/mdpad.html?yaml_usage.md))
+  ([Markdown](https://rick-77-2024.github.com/mdpad/yaml_usage.md))
   -- Covers YAML and text input blocks and uses for loading CSV, JSON,
   XML, and YAML data as well as loading scripts and creating forms.
 
 * `numericjs.md`
-  ([Live results](https://tshort.github.com/mdpad/mdpad.html?numericjs.md))
-  ([Markdown](https://tshort.github.com/mdpad/numericjs.md))
+  ([Live results](https://rick-77-2024.github.com/mdpad/mdpad.html?numericjs.md))
+  ([Markdown](https://rick-77-2024.github.com/mdpad/numericjs.md))
   -- Example using the [Numeric Javascript](http://www.numericjs.com/)
      package.
 
@@ -97,8 +97,8 @@ Here's an interface to a simulation compiled using
 [Emscripten](http://emscripten.org/).
 
 * `Modelica.Electrical.Analog.Examples.ChuaCircuit.md`
-  ([Live results](https://tshort.github.com/mdpad/mdpad.html?Modelica.Electrical.Analog.Examples.ChuaCircuit.md))
-  ([Markdown](https://tshort.github.com/mdpad/Modelica.Electrical.Analog.Examples.ChuaCircuit.md))
+  ([Live results](https://rick-77-2024.github.com/mdpad/mdpad.html?Modelica.Electrical.Analog.Examples.ChuaCircuit.md))
+  ([Markdown](https://rick-77-2024.github.com/mdpad/Modelica.Electrical.Analog.Examples.ChuaCircuit.md))
   -- OpenModelica simulation model of a Chua circuit.
 
 
@@ -161,14 +161,14 @@ good support for syntax highlighting JavaScript and YAML blocks within
 Markdown files. I like Atom with the [markdown-folder package](https://github.com/melke/markdown-folder) that can
 fold and unfold headings and code blocks. Here is a demo:
 
-![Folding in action](https://github.com/tshort/markdown-folder/raw/master/markdown-folder-mdpad.gif)
+![Folding in action](https://github.com/rick-77-2024/markdown-folder/raw/master/markdown-folder-mdpad.gif)
 
 The [atom-mdpad package](https://atom.io/packages/mdpad)
 is an extension that adds a live preview and snippets specific to mdpad. Here is
 an example with both the live preview and snippets are used. The live preview
 is an alternative to running a server on your local computer.
 
-![mdpad in action](https://github.com/tshort/atom-mdpad/raw/master/atom-mdpad.gif)
+![mdpad in action](https://github.com/rick-77-2024/atom-mdpad/raw/master/atom-mdpad.gif)
 
 Another alternative to the live preview is to use Atom to start a server. The
 [local-server-express](https://atom.io/packages/local-server-express) package
@@ -179,7 +179,7 @@ Preview.
 
 ## Inspiration / Ideas
 
-* [Julia Markdown](https://github.com/tshort/JuliaMarkdown)
+* [Julia Markdown](https://github.com/rick-77-2024/JuliaMarkdown)
 
 * [Active Markdown](http://activemarkdown.org)
 
@@ -214,6 +214,6 @@ Everything's pretty much alpha stage right now. The main code is less
 than 200 lines of code. Many of the libraries used (Flot, yaml-js, showdown,
 etc.) are pretty mature.
 
-[mdpad Github main page](https://github.com/tshort/mdpad/tree/gh-pages)
+[mdpad Github main page](https://github.com/rick-77-2024/mdpad/tree/gh-pages)
 
 MIT licensed.
