@@ -151,4 +151,4 @@ println("## generated heading")
 println("some *italic* and **bold** text")
 ```
 
-[mdpad main page](https://github.com/tshort/mdpad/tree/gh-pages)
+[mdpad main page](https://github.com/Rick-77-2024/mdpad/tree/gh-pages)
